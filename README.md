@@ -93,18 +93,28 @@ Plan shifts with configurable staffing ratios, saved settings, and Excel export.
 
 **Where I add value:** AI enablement · Customer operations · Workflow design · Workforce planning · UX/UI thinking
 
-## 🏆 Achievement unlocked
+## 🏆 Achievement unlocked · 16 milestones
 
-Selected recognition from my [portfolio](https://nuttanawin.netlify.app/#projects):
+Complete awards & recognition — from E-Sports and employee recognition to AI innovation and coaching.
 
 | Year | Quest | Result |
 | :--- | :--- | :--- |
-| 2026 | Kaggle AI Lecture & Hackathon · Burapha University | 🥇 Winner · Flowchart-to-Code Alignment Verifier |
-| 2026 | AIAT Time Series Hackathon | 🥉 2nd runner-up |
-| 2026 | OpenAI × AIAT Hackathon | 🏅 Honorable mention |
-| 2025 | AI BOOST UP · NECTEC × NSTDA | 🥇 Winner |
-| 2025 | NT Agentic AI Hackathon | 🥈 1st runner-up |
-| 2025 | NT KM Award | 🥇 Winner |
+| 2023 | **01** · State Enterprise E-Sports | 🥈 First runner-up |
+| 2023 | **02** · NT E-Sports | 🥈 First runner-up |
+| 2024 | **03** · NT Data Analytics Hackathon 2024 | 🏅 Honorable Mention |
+| 2025 | **04** · AI*dea · NT Corporation | 🎯 Finalist |
+| 2025 | **05** · AI Boost Up · NECTEC × NSTDA | 🥇 Winner |
+| — | **06** · Big Idea | 🥇 Winner · 1st Place |
+| 2025 | **07** · NT Agentic AI Hackathon | 🥈 First runner-up |
+| 2025 | **08** · NT KM Award | 🥇 Winner |
+| 2025 | **09** · NT Fit Fun Firm | 🥇 Winner |
+| 2026 | **10** · Role Model · ระดับพนักงาน | 🌟 Role Model |
+| 2026 | **11** · OpenAI × AIAT Hackathon | 🏅 Honorable Mention |
+| 2026 | **12** · AIAT Time Series Hackathon | 🥉 Second runner-up |
+| 2026 | **13** · Seedance Hackathon Thailand Final | 🌍 One Step to the Global Stage |
+| 2026 | **14** · PDPA Hackathon · PDPC | 🗳️ Popular Vote |
+| 2026 | **15** · Kaggle — AI Lecture & Hackathon · Burapha University<br/>Flowchart-to-Code Alignment Verifier | 🥇 Winner |
+| 2026 | **16** · NT AIaaS Hackathon | 🏅 Honorable Mention · Coach |
 
 <details>
 <summary><b>🗂️ More from the lab</b></summary>
