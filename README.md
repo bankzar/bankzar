@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://nuttanawin.netlify.app/">
-    <img src="./banner.svg" width="100%" alt="BANKZAR.EXE — Turning real-world problems into playable possibilities. AI × Operations × Creative Tech." />
+    <img src="./banner-bank.svg" width="100%" alt="BANKZAR.EXE — Turning real-world problems into playable possibilities. AI × Operations × Creative Tech." />
   </a>
 </p>
 
