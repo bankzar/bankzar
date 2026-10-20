@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430" role="img" aria-labelledby="title desc">
+  <title id="title">BANKZAR.EXE — AI meets real-world operations</title>
+  <desc id="desc">A dark retro arcade terminal in red, lavender and mint. Customer Operations, AI Enablement, Creative Tech. Player one: Bank. System online.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#111520"/><stop offset="1" stop-color="#080b12"/></linearGradient>
+    <linearGradient id="red"><stop stop-color="#ff4655"/><stop offset="1" stop-color="#ff8b78"/></linearGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#a6aac0" stroke-opacity=".05"/></pattern>
+    <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse"><path d="M0 0H4" stroke="#000" stroke-opacity=".16"/></pattern>
+  </defs>
+  <rect width="1200" height="430" rx="18" fill="url(#bg)"/>
+  <rect x="1" y="1" width="1198" height="428" rx="17" fill="none" stroke="#303441"/>
+  <rect x="18" y="18" width="1164" height="394" rx="7" fill="url(#grid)"/>
+  <path d="M18 58H1182" stroke="#303441"/>
+  <g font-family="'Courier New',monospace">
+    <circle cx="39" cy="38" r="5" fill="#ff4655"/><circle cx="58" cy="38" r="5" fill="#ffd166"/><circle cx="77" cy="38" r="5" fill="#64ffda"/>
+    <text x="101" y="43" fill="#929bad" font-size="13" letter-spacing="2">BANKZAR // PERSONAL SYSTEM</text>
+    <circle cx="1028" cy="38" r="4" fill="#64ffda"/>
+    <text x="1043" y="43" fill="#64ffda" font-size="12" letter-spacing="1">SYS.ONLINE</text>
+    <text x="51" y="103" fill="#bb9af7" font-size="14" letter-spacing="4">PLAYER 01 / NUTTANAWIN JANPAOSANG</text>
+    <text x="55" y="204" fill="#ff4655" opacity=".22" font-weight="900" font-size="88" letter-spacing="-5">BANKZAR<tspan font-size="54" letter-spacing="-3">.EXE</tspan></text>
+    <text x="51" y="200" fill="#f1f2f8" font-weight="900" font-size="88" letter-spacing="-5">BANKZAR<tspan fill="url(#red)" font-size="54" letter-spacing="-3">.EXE</tspan></text>
+    <rect x="51" y="222" width="49" height="4" fill="#ff4655"/>
+    <text x="51" y="263" fill="#e3e6ef" font-size="22" font-weight="700">REAL PROBLEMS. USEFUL AI. A LITTLE PLAY.</text>
+    <text x="51" y="295" fill="#929bad" font-size="15">CUSTOMER OPERATIONS  /  AI ENABLEMENT  /  CREATIVE TECH</text>
+    <g transform="translate(51 329)">
+      <rect width="200" height="43" rx="4" fill="#ff4655"/>
+      <text x="21" y="27" fill="#0a0d14" font-size="15" font-weight="700" letter-spacing="1">&gt; PRESS START</text>
+      <text x="222" y="27" fill="#bb9af7" font-size="14">20+ YEARS IN TELECOM</text>
+    </g>
+    <g transform="translate(879 98)">
+      <path d="M0 22V0H22 M222 0H244V22 M244 192V214H222 M22 214H0V192" fill="none" stroke="#ff4655" stroke-width="3"/>
+      <rect x="13" y="13" width="218" height="188" fill="#171c2a" stroke="#303441"/>
+      <text x="29" y="40" fill="#929bad" font-size="11" letter-spacing="2">EXPERIMENT ENGINE</text>
+      <g fill="#bb9af7">
+        <path d="M77 62H157V70H173V86H181V142H173V158H157V166H77V158H61V142H53V86H61V70H77Z"/>
+        <path d="M85 50H149V58H85Z" opacity=".3"/>
+      </g>
+      <path d="M77 86H157V126H77Z" fill="#090d16"/>
+      <path d="M85 94H101V110H85Z M133 94H149V110H133Z" fill="#64ffda"/>
+      <path d="M101 138H133V146H101Z" fill="#090d16"/>
+      <path d="M37 94H45V126H37Z M189 94H197V126H189Z" fill="#ff4655"/>
+      <path d="M29 180H117" stroke="#303441" stroke-width="5"/>
+      <path d="M29 180H99" stroke="#64ffda" stroke-width="5"/>
+      <text x="134" y="184" fill="#64ffda" font-size="11">READY_</text>
+    </g>
+    <text x="900" y="349" fill="#929bad" font-size="12" letter-spacing="2">BUILD / SHIP / REPEAT</text>
+    <path d="M51 394H1149" stroke="#303441"/>
+    <text x="51" y="414" fill="#667085" font-size="10" letter-spacing="2">NUTTANAWIN.NETLIFY.APP</text>
+    <text x="929" y="414" fill="#667085" font-size="10" letter-spacing="2">INSERT CURIOSITY</text>
+  </g>
+  <rect x="18" y="59" width="1164" height="335" fill="url(#scan)" pointer-events="none"/>
+</svg>
