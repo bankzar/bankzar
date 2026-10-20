@@ -104,7 +104,7 @@ Complete awards & recognition — from E-Sports and employee recognition to AI i
 | 2024 | **03** · NT Data Analytics Hackathon 2024 | 🏅 Honorable Mention |
 | 2025 | **04** · AI*dea · NT Corporation | 🎯 Finalist |
 | 2025 | **05** · AI Boost Up · NECTEC × NSTDA | 🥇 Winner |
-| — | **06** · Big Idea | 🥇 Winner · 1st Place |
+| 2025 | **06** · NT Big Idea | 🥇 Winner · 1st Place |
 | 2025 | **07** · NT Agentic AI Hackathon | 🥈 First runner-up |
 | 2025 | **08** · NT KM Award | 🥇 Winner |
 | 2025 | **09** · NT Fit Fun Firm | 🥇 Winner |
